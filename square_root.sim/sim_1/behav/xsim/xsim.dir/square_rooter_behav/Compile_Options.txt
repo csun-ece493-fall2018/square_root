@@ -1,0 +1,1 @@
+-wto "35b4e85b6901482bb31e6b5e83f93da4" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" -L "xpm" --snapshot "square_rooter_behav" "xil_defaultlib.square_rooter" -log "elaborate.log" 
